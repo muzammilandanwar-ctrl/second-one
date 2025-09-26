@@ -1,2 +1,2 @@
-# second-one
+# Basic Idea of git
 nope
